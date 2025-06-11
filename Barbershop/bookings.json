@@ -1,0 +1,26 @@
+[
+    {
+        "customerName": "nigga",
+        "service": "Coloring",
+        "barber": "Abu",
+        "dateTime": "2025-06-11T10:35:00+02:00"
+    },
+    {
+        "customerName": "amirul",
+        "service": "Normal Cutting",
+        "barber": "Andre",
+        "dateTime": "2025-06-19T02:55:00+02:00"
+    },
+    {
+        "customerName": "amirul",
+        "service": "Coloring",
+        "barber": "Andriana",
+        "dateTime": "2025-06-12T05:03:00+02:00"
+    },
+    {
+        "customerName": "Najmi",
+        "service": "Rebonding",
+        "barber": "Andriana",
+        "dateTime": "2025-06-11T22:30:00+02:00"
+    }
+]
